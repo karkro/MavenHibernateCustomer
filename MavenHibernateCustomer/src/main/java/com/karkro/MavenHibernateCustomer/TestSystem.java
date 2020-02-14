@@ -20,7 +20,7 @@ public class TestSystem {
 		addCustomer(3, "Andrzej", "Pilipiuk");
 		addCustomer(4, "Arnold", "Boczek");
 		addCustomer(5, "John", "Bravo");
-		addCustomer(6, "Karol", "Krol")
+		addCustomer(6, "Karol", "Krol");
 		getCustomer(2);
 		getCustomers();
 		changeFName(5, "Johny");
